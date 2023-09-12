@@ -1,3 +1,5 @@
+Hosted Link : https://majumderkoushik.github.io/AutoSave_Text/
+
 # Autosave_text
 
 Autosave_text is a simple web application that allows users to create and edit text content, with an automatic save feature. This project is implemented using HTML, CSS, and JavaScript.
@@ -21,4 +23,4 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/autosave_text.git
+git clone https://github.com/majumderkoushik/AutoSave_Text
