@@ -24,3 +24,6 @@ You'll need a modern web browser that supports HTML5 and JavaScript.
 
 ```bash
 git clone https://github.com/majumderkoushik/AutoSave_Text
+
+
+Open the index.html file in your web browser to launch the application
